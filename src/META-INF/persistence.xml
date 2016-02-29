@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="1.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+  <persistence-unit name="AntiFriezePU" transaction-type="RESOURCE_LOCAL">
+    <provider>oracle.toplink.essentials.PersistenceProvider</provider>
+    <class>com.wms.antifrieze.Customer</class>
+    <class>com.wms.antifreeze.entity.customer.AFCustomerEntity</class>
+    <class>com.wms.antifreeze.entity.customer.AFCustomer</class>
+    <class>com.wms.antifreeze.entity.ticket.AFTicketEntity</class>
+    <class>com.wms.antifreeze.entity.AFShopEntity</class>
+    <class>com.wms.antifreeze.entity.AFEstimateEntity</class>
+    <class>com.wms.antifreeze.gui.AfViewsExtents</class>
+    <class>com.wms.antifreeze.entity.car.AFCarEntity</class>
+    <properties>
+      <property name="hibernate.cache.provider_class" value="org.hibernate.cache.NoCacheProvider"/>
+      <property name="toplink.jdbc.user" value=""/>
+      <property name="toplink.jdbc.password" value=""/>
+      <property name="toplink.jdbc.url" value=""/>
+      <property name="toplink.jdbc.driver" value=""/>
+    </properties>
+  </persistence-unit>
+  <persistence-unit name="AntiFriezePU2" transaction-type="RESOURCE_LOCAL">
+    <provider>org.hibernate.ejb.HibernatePersistence</provider>
+    <class>com.wms.antifreeze.gui.AfViewsExtents</class>
+    <properties>
+      <property name="hibernate.connection.username" value="AFUser"/>
+      <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/>
+      <property name="hibernate.connection.password" value="afu"/>
+      <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/AFGUIEXTENTS"/>
+      <property name="hibernate.cache.provider_class" value="org.hibernate.cache.NoCacheProvider"/>
+      <property name="hibernate.hbm2ddl.auto" value="update"/>
+    </properties>
+  </persistence-unit>
+</persistence>

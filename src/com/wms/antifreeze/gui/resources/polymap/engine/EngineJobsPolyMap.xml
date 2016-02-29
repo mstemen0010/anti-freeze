@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : EngineJobsPolyMap.xml
+    Created on : June 27, 2009, 6:56 PM
+    Author     : mstemen
+    Description:
+        Purpose of the document follows.
+-->
+
+<PolyMapGroups  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+   xmlns:ns1='http://xml.netbeans.org/schema/PolyImageMapXmlSchema'
+   xsi:schemaLocation='http://xml.netbeans.org/schema/PolyImageMapXmlSchema file:/Users/mstemen/dev/java/projects/AntiFrieze/src/com/wms/antifrieze/gui/resources/PolyImageMapXmlSchema.xsd'>
+    <PolyMapGroup>
+        <ns1:PolyMapGroupName>EngineMap</ns1:PolyMapGroupName>
+        <ns1:PolyMapGroupImage>engineBase.icon</ns1:PolyMapGroupImage>
+        <ns1:PolyMapGroupArea>
+            <ns1:AreaName>Transmission</ns1:AreaName>
+            <ns1:AreaImage>engineTransmission.icon</ns1:AreaImage>
+            <ns1:Points>
+                <ns1:xCoordinate>113</ns1:xCoordinate>
+                <ns1:yCoordinate>1</ns1:yCoordinate>
+            </ns1:Points>
+            <ns1:Points>
+                <ns1:xCoordinate>123</ns1:xCoordinate>
+                <ns1:yCoordinate>1</ns1:yCoordinate>
+            </ns1:Points>
+            <ns1:Points>
+                <ns1:xCoordinate>84</ns1:xCoordinate>
+                <ns1:yCoordinate>113</ns1:yCoordinate>
+            </ns1:Points>
+            <ns1:Points>
+                <ns1:xCoordinate>149</ns1:xCoordinate>
+                <ns1:yCoordinate>113</ns1:yCoordinate>
+            </ns1:Points>
+
+        </ns1:PolyMapGroupArea>
+    </PolyMapGroup>
+
+</PolyMapGroups>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://xml.netbeans.org/schema/PolyImageMapXmlSchema"
+    xmlns:tns="http://xml.netbeans.org/schema/PolyImageMapXmlSchema"
+    elementFormDefault="qualified" version="1.0" attributeFormDefault="qualified">
+    <xsd:complexType name="PolyPoint">
+        <xsd:sequence maxOccurs="1" minOccurs="1">
+            <xsd:element name="xCoordinate" type="xsd:unsignedInt"></xsd:element>
+            <xsd:element name="yCoordinate" type="xsd:unsignedInt"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="PolyMapArea">
+        <xsd:sequence maxOccurs="unbounded">
+            <xsd:element name="AreaName" type="xsd:string"/>
+            <xsd:element name="AreaImage" type="xsd:string"/>
+            <xsd:element name="Points" maxOccurs="unbounded" type="tns:PolyPoint"></xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="PolyMapGroup">
+        <xsd:sequence maxOccurs="1">
+            <xsd:element name="PolyMapGroupName" type="xsd:string"/>
+            <xsd:element name="PolyMapGroupImage" type="xsd:string"/>
+            <xsd:element name="PolyMapGroupArea" type="tns:PolyMapArea"></xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="PGroup">
+        <xsd:sequence maxOccurs="unbounded">
+            <xsd:element name="Member" type="tns:PolyMapGroup"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:element name="Comment" type="xsd:string"/>
+    <xsd:element name="PolyMapName" type="xsd:string"/>
+    <xsd:element name="PolyMapGroups" type="tns:PolyMapGroup"></xsd:element>
+    <xsd:element name="PolyMapBaseImage" type="xsd:string"/>
+</xsd:schema>

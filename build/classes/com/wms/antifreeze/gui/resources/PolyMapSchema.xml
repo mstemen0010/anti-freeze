@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PolyMapGroups>
+    <PolyMapGroup>
+        <GroupName>Transmission</GroupName>
+        <GroupArea>
+            <PolyPoint x='113' y='1'/>
+            <PolyPoint x='123' y='1'/>
+            <PolyPoint x='84' y='118'/>
+        </GroupArea>
+        <GroupImage>engineTransmission.icon</GroupImage>
+    </PolyMapGroup>
+    <PolyMapGroup>
+        <GroupName>Engine</GroupName>
+        <GroupArea>
+            <PolyPoint x='113' y='1'/>
+            <PolyPoint x='123' y='1'/>
+            <PolyPoint x='84' y='118'/>
+        </GroupArea>
+        <GroupImage>engine.icon</GroupImage>
+    </PolyMapGroup>
+</PolyMapGroups>

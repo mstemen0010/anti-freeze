@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : PolyImageMapXmlSchema.xml
+    Created on : June 29, 2009, 4:45 PM
+    Author     : mstemen
+    Description:
+        Purpose of the document follows.
+-->
+
+<ns0:Comment  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+   xmlns:ns0='http://xml.netbeans.org/schema/PolyImageMapXmlSchema'
+   xsi:schemaLocation='http://xml.netbeans.org/schema/PolyImageMapXmlSchema PolyImageMapXmlSchema.xsd'>
+
+</ns0:Comment>

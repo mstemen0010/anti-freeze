@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : PolyImageMapXmlSchema1.xml
+    Created on : June 29, 2009, 5:07 PM
+    Author     : mstemen
+    Description:
+        Purpose of the document follows.
+-->
+
+<ns0:PolyMapGroups  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+   xmlns:ns0='http://xml.netbeans.org/schema/PolyImageMapXmlSchema'
+   xsi:schemaLocation='http://xml.netbeans.org/schema/PolyImageMapXmlSchema PolyImageMapXmlSchema.xsd'>
+    <ns0:PolyMapGroupName></ns0:PolyMapGroupName>
+    <ns0:PolyMapGroupImage></ns0:PolyMapGroupImage>
+    <ns0:PolyMapGroupArea>
+        <ns0:AreaName></ns0:AreaName>
+        <ns0:AreaImage></ns0:AreaImage>
+        <ns0:Points>
+            <ns0:xCoordinate>113</ns0:xCoordinate>
+            <ns0:yCoordinate>1</ns0:yCoordinate>
+        </ns0:Points>
+        <ns0:Points>
+            <ns0:xCoordinate>123</ns0:xCoordinate>
+            <ns0:yCoordinate>1</ns0:yCoordinate>
+        </ns0:Points>
+        <ns0:Points>
+            <ns0:xCoordinate>84</ns0:xCoordinate>
+            <ns0:yCoordinate>113</ns0:yCoordinate>
+        </ns0:Points>
+    </ns0:PolyMapGroupArea>
+
+</ns0:PolyMapGroups>
