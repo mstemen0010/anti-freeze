@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#ace6f7a649be74c9719b30729dbc2eca1" title="com.wms.antifreeze.AFMgr.callMgr" alt="" coords="455,5,681,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a9eb022dc1fe7b6d54c9cf1d0f6c84995" title="com.wms.antifreeze.AFMgr.getCurrentTime" alt="" coords="431,56,705,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_entity.html#a18229d993803c619d7a87db4b7375c90" title="com.wms.antifreeze.entity.ticket.AFTicketEntity.getTicketDate" alt="" coords="376,107,760,133"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_ticket_view.html#a4275459fd25f5444926dbc202f7fd2ee" title="com.wms.antifreeze.view.AFTicketView.setAFTicket" alt="" coords="406,157,730,184"/>
+</map>

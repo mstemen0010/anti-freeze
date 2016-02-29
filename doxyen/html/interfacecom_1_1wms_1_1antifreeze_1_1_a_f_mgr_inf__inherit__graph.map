@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_customer_mgr.html" title="com.wms.antifreeze.AFCustomerMgr" alt="" coords="248,5,485,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html" title="com.wms.antifreeze.AFMgr" alt="" coords="276,56,457,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_ticket_mgr.html" title="com.wms.antifreeze.AFTicketMgr" alt="" coords="259,107,475,133"/>
+</map>

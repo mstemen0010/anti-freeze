@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#ace6f7a649be74c9719b30729dbc2eca1" title="com.wms.antifreeze.AFMgr.callMgr" alt="" coords="477,107,704,133"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a91f8b1146e7cea34240ea55109573de9" title="com.wms.antifreeze.AFMgr.initAntiFreezeMgr" alt="" coords="447,157,734,184"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#aa79350cd6d5398a3835477e5be39e866" title="com.wms.antifreeze.gui.AF_ViewMgr.setSplashStatus" alt="" coords="825,208,1162,235"/>
+<area shape="rect" id="node21" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a1a13ed4f82bf2ee5d3c92d86d7abc846" title="com.wms.antifreeze.gui.AF_ViewMgr.setSplashStatusValue" alt="" coords="808,259,1179,285"/>
+<area shape="rect" id="node27" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a21a750ce5dc35163c9c5f701140973d9" title="com.wms.antifreeze.gui.AF_ViewMgr.initTicketSystem" alt="" coords="421,309,760,336"/>
+<area shape="rect" id="node37" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a5c3d5803bf19ba85b89409da33d997bd" title="com.wms.antifreeze.gui.AF_ViewMgr.setLevel" alt="" coords="447,360,735,387"/>
+<area shape="rect" id="node41" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#ad015076e237387b7c83526236e4e7fe6" title="com.wms.antifreeze.gui.AF_ViewMgr.writeToGui" alt="" coords="439,411,742,437"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#a217063baee9be9e475f534ade2ee35e4" title="com.wms.antifreeze.entity.AFShopEntity.map" alt="" coords="849,107,1137,133"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_shop_workflow.html#a8c47049988d88a804e9da402686e0697" title="com.wms.antifreeze.AFShopWorkflow.push" alt="" coords="856,157,1131,184"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#ade49ff78b36f2e107c77af40a598110e" title="com.wms.antifreeze.AFMgr.registerMgrForType" alt="" coords="845,5,1142,32"/>
+<area shape="rect" id="node17" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a0181c2316f821deb2106a4cb9a51a132" title="com.wms.antifreeze.gui.AF_ViewMgr.setSplashStatusNote" alt="" coords="811,56,1175,83"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#ab5079ac020b0fad80363153943c45691" title="com.wms.antifreeze.view.SplashCanvas.setMessage" alt="" coords="1227,208,1554,235"/>
+<area shape="rect" id="node19" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#abeb1295ec71c6052a31e9119592d0af2" title="com.wms.antifreeze.view.SplashCanvas.setNote" alt="" coords="1240,56,1541,83"/>
+<area shape="rect" id="node23" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#adcbae9e44287bd009e7c8af544242b2e" title="com.wms.antifreeze.view.SplashCanvas.setValue" alt="" coords="1237,259,1544,285"/>
+<area shape="rect" id="node25" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#ad16cb2aaee68b2410c2ca0fcbe23f6e8" title="com.wms.antifreeze.view.SplashCanvas.setProgress" alt="" coords="1603,259,1930,285"/>
+<area shape="rect" id="node29" href="$classcom_1_1wms_1_1antifreeze_1_1_anti_freeze_app.html#ae9ac227a4e29fca52ae3b5e2aa78f60e" title="com.wms.antifreeze.AntiFreezeApp.getApplication" alt="" coords="836,411,1151,437"/>
+<area shape="rect" id="node31" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a7656919b9c0585fc0bba0e41b47f0232" title="com.wms.antifreeze.AFMgr.getManagerForType" alt="" coords="843,461,1143,488"/>
+<area shape="rect" id="node33" href="$interfacecom_1_1wms_1_1antifreeze_1_1_a_f_mgr_inf.html#aa58808337487d7a18b21d9da9ec365fa" title="com.wms.antifreeze.AFMgrInf.loadOutStandingTickets" alt="" coords="825,309,1161,336"/>
+<area shape="rect" id="node35" href="$interfacecom_1_1wms_1_1antifreeze_1_1_a_f_mgr_inf.html#a3d7474469b0019f99b2a444460cd23e4" title="com.wms.antifreeze.AFMgrInf.setTicketBox" alt="" coords="856,360,1131,387"/>
+</map>

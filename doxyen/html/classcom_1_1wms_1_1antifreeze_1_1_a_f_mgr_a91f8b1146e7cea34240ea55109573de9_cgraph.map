@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#a217063baee9be9e475f534ade2ee35e4" title="com.wms.antifreeze.entity.AFShopEntity.map" alt="" coords="383,5,671,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_shop_workflow.html#a8c47049988d88a804e9da402686e0697" title="com.wms.antifreeze.AFShopWorkflow.push" alt="" coords="389,56,664,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#ade49ff78b36f2e107c77af40a598110e" title="com.wms.antifreeze.AFMgr.registerMgrForType" alt="" coords="378,107,675,133"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#aa79350cd6d5398a3835477e5be39e866" title="com.wms.antifreeze.gui.AF_ViewMgr.setSplashStatus" alt="" coords="358,157,695,184"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a0181c2316f821deb2106a4cb9a51a132" title="com.wms.antifreeze.gui.AF_ViewMgr.setSplashStatusNote" alt="" coords="345,208,709,235"/>
+<area shape="rect" id="node17" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a1a13ed4f82bf2ee5d3c92d86d7abc846" title="com.wms.antifreeze.gui.AF_ViewMgr.setSplashStatusValue" alt="" coords="341,259,712,285"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#ab5079ac020b0fad80363153943c45691" title="com.wms.antifreeze.view.SplashCanvas.setMessage" alt="" coords="761,157,1087,184"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#abeb1295ec71c6052a31e9119592d0af2" title="com.wms.antifreeze.view.SplashCanvas.setNote" alt="" coords="773,208,1075,235"/>
+<area shape="rect" id="node19" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#adcbae9e44287bd009e7c8af544242b2e" title="com.wms.antifreeze.view.SplashCanvas.setValue" alt="" coords="771,259,1077,285"/>
+<area shape="rect" id="node21" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#ad16cb2aaee68b2410c2ca0fcbe23f6e8" title="com.wms.antifreeze.view.SplashCanvas.setProgress" alt="" coords="1137,259,1463,285"/>
+</map>

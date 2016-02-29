@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1resources_1_1_j_starter.html#a7ccba956960ab570c37735344e315652" title="com.wms.antifreeze.view.resources.JStarter.JStarter" alt="" coords="376,5,701,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1resources_1_1_j_starter.html#ad927f015dbb6955ad8f372161ebaaa04" title="com.wms.antifreeze.view.resources.JStarter.run" alt="" coords="389,56,688,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1resources_1_1_j_starter.html#ab46d5a7e9895a7bf6efa41b0d22c1b8a" title="com.wms.antifreeze.view.resources.JStarter.setMessage" alt="" coords="363,107,714,133"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1resources_1_1_j_starter.html#a9d2196c87f492e4da77611691c77f8ea" title="com.wms.antifreeze.view.resources.JStarter.setNote" alt="" coords="376,157,701,184"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1resources_1_1_j_starter.html#aae31280410eea52706efe3339b8a39f0" title="com.wms.antifreeze.view.resources.JStarter.setValue" alt="" coords="373,208,704,235"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1resources_1_1_j_starter.html#a866b813590e4e1e475c7eb99d3d1c4a2" title="com.wms.antifreeze.view.resources.JStarter.sleep" alt="" coords="383,259,694,285"/>
+<area shape="rect" id="node17" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1resources_1_1_j_starter.html#aee40197fc3aab8b3723db7a39008be99" title="com.wms.antifreeze.view.resources.JStarter.stop" alt="" coords="386,309,691,336"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1resources_1_1_j_starter.html#a3d9874810e196cfd823f86abb2d83a6c" title="com.wms.antifreeze.view.resources.JStarter.setProgress" alt="" coords="763,208,1114,235"/>
+</map>

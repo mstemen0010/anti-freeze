@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_entity.html#ae69302fcd3a74216fba9020944689502" title="com.wms.antifreeze.entity.ticket.AFTicketEntity.createNewTicket" alt="" coords="344,5,744,32"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_ticket_view.html#aac2d37a74738cf9b1c8807a18916a4b4" title="com.wms.antifreeze.view.AFTicketView.fillInCarInfo" alt="" coords="386,56,702,83"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_entity.html#ac7185e93ecd0bddcd770e65fadd26ded" title="com.wms.antifreeze.entity.ticket.AFTicketEntity.getTicketNum" alt="" coords="352,107,736,133"/>
+<area shape="rect" id="node11" href="$interfacecom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_inf.html#a9a605a073469c544ec65f534a14b62b4" title="com.wms.antifreeze.entity.ticket.AFTicketInf.getTicketNumber" alt="" coords="353,157,735,184"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a9eb022dc1fe7b6d54c9cf1d0f6c84995" title="com.wms.antifreeze.AFMgr.getCurrentTime" alt="" coords="793,5,1066,32"/>
+</map>

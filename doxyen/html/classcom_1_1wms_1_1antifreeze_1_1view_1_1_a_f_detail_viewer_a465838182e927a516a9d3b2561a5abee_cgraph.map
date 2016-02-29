@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interfacecom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_inf.html#abd1c5e9ae72644cdc87ebd1222786a97" title="com.wms.antifreeze.entity.ticket.AFTicketInf.getAction" alt="" coords="425,5,764,32"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f_view_mgr_interface.html#a7f88c866b817ae150f5932fbb5ee27ec" title="com.wms.antifreeze.gui.AFViewMgrInterface.getCurrentTicket" alt="" coords="405,56,784,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_customer_view.html#a1955aa08d3295ec98163484bd1bf8f89" title="com.wms.antifreeze.view.AFCustomerView.getPanel" alt="" coords="431,107,758,133"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_customer_view.html#a5d6c7b7e0ef916606fd764c405da2127" title="com.wms.antifreeze.view.AFCustomerView.setActionButton" alt="" coords="411,157,779,184"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_detail_viewer.html#a1530f809deabde5e39393ffc032705bf" title="com.wms.antifreeze.view.AFDetailViewer.setMode" alt="" coords="438,208,751,235"/>
+</map>

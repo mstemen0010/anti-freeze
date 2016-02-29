@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node4" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job.html" title="com.wms.antifreeze.view.AFJob" alt="" coords="523,85,730,112"/>
+<area shape="rect" id="node12" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_progress_panel.html" title="com.wms.antifreeze.view.AFProgressPanel" alt="" coords="883,131,1155,157"/>
+<area shape="rect" id="node6" href="$interfacecom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job_interface.html" title="com.wms.antifreeze.view.AFJobInterface" alt="" coords="133,8,389,35"/>
+<area shape="rect" id="node8" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_progress_frame.html" title="com.wms.antifreeze.view.AFProgressFrame" alt="" coords="123,59,399,85"/>
+</map>

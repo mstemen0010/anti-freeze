@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job.html#a6adcb7eb9388daf53ae8929fb2cb18f7" title="com.wms.antifreeze.view.AFJob.checkDone" alt="" coords="306,5,582,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job.html#a906b3d38988776d15b01e478dfc25664" title="com.wms.antifreeze.view.AFJob.isDone" alt="" coords="319,56,569,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_worker.html#a2157e92fa22482184fc539191376e8b7" title="com.wms.antifreeze.view.AFWorker.runTask" alt="" coords="305,107,583,133"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job.html#a3fddcee31470c25ab72ebc408ef089ed" title="com.wms.antifreeze.view.AFJob.process" alt="" coords="633,107,890,133"/>
+</map>

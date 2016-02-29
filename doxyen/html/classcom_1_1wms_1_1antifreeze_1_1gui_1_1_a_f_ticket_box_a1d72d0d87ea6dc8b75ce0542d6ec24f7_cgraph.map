@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f_ticket_box.html#abc1fcab0822cea85b6f8ebf4c542e36b" title="com.wms.antifreeze.gui.AFTicketBox.displayPaperTicket" alt="" coords="367,31,719,57"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_ticket_view.html#aac2d37a74738cf9b1c8807a18916a4b4" title="com.wms.antifreeze.view.AFTicketView.fillInCarInfo" alt="" coords="385,81,701,108"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_ticket_view.html#aa8c8bc9080514a6d376f90330aec82b7" title="com.wms.antifreeze.view.AFTicketView.getComponent" alt="" coords="373,132,712,159"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_ticket_view.html#a2b1af20c353afe567de60c54519aed6d" title="com.wms.antifreeze.view.AFTicketView.getTabTitle" alt="" coords="384,183,701,209"/>
+<area shape="rect" id="node21" href="$interfacecom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_inf.html#a9a605a073469c544ec65f534a14b62b4" title="com.wms.antifreeze.entity.ticket.AFTicketInf.getTicketNumber" alt="" coords="352,233,733,260"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_ticket_view.html#a4e0b14c143792f87d88b76b96fbecdab" title="com.wms.antifreeze.view.AFTicketView.getPaperTicket" alt="" coords="800,5,1141,32"/>
+<area shape="rect" id="node7" href="$interfacecom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f_view_mgr_interface.html#a01a3c38cf9c01e2fc724c74b9de9da31" title="com.wms.antifreeze.gui.AFViewMgrInterface.setCurrentTicket" alt="" coords="781,56,1160,83"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1car_1_1_a_f_car_entity.html#aa1300abdcee77fc8c5a862061e85beda" title="com.wms.antifreeze.entity.car.AFCarEntity.getMake" alt="" coords="808,132,1133,159"/>
+<area shape="rect" id="node17" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1car_1_1_a_f_car_entity.html#a313267e393db7505d5d6f284814ac350" title="com.wms.antifreeze.entity.car.AFCarEntity.getModel" alt="" coords="807,183,1135,209"/>
+<area shape="rect" id="node19" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1car_1_1_a_f_car_entity.html#aadfafde05340d2a5a0e2dc6e61b227a4" title="com.wms.antifreeze.entity.car.AFCarEntity.getModYear" alt="" coords="798,233,1143,260"/>
+</map>

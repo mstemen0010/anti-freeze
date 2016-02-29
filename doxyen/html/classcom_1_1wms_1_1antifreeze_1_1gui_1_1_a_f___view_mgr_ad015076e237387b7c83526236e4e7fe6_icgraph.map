@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#af53fb7b3a386b82e8c3644281c1c1f5a" title="com.wms.antifreeze.gui.AF_ViewMgr.endSectionToGui" alt="" coords="371,5,711,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#ad51fcec8f46ec1fbeeaca1167b8ca84f" title="com.wms.antifreeze.gui.AF_ViewMgr.initAntiFreezeSystem" alt="" coords="358,56,725,83"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a9d1e91cbc6bf20fd03af916def31e5d5" title="com.wms.antifreeze.gui.AF_ViewMgr.startSectionToGui" alt="" coords="369,107,714,133"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1_anti_freeze_app.html#ac4c47f9d66bee7e689eb8bf2bc8cdceb" title="com.wms.antifreeze.AntiFreezeApp.startup" alt="" coords="773,56,1045,83"/>
+</map>

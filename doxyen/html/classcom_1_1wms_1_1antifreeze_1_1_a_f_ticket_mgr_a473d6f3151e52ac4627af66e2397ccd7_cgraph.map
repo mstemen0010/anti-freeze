@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_ticket_view.html#aac2d37a74738cf9b1c8807a18916a4b4" title="com.wms.antifreeze.view.AFTicketView.fillInCarInfo" alt="" coords="378,5,694,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_entity.html#ac7185e93ecd0bddcd770e65fadd26ded" title="com.wms.antifreeze.entity.ticket.AFTicketEntity.getTicketNum" alt="" coords="344,56,728,83"/>
+<area shape="rect" id="node7" href="$interfacecom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_inf.html#a9a605a073469c544ec65f534a14b62b4" title="com.wms.antifreeze.entity.ticket.AFTicketInf.getTicketNumber" alt="" coords="345,107,727,133"/>
+</map>

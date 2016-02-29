@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_splash_frame.html#afdbb3633503aeee6b59fa053bd1b6f05" title="com.wms.antifreeze.gui.SplashFrame.setMessage" alt="" coords="329,5,644,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_splash_frame.html#aa1333a20ab87c93519a19a723c9879a8" title="com.wms.antifreeze.gui.SplashFrame.setNote" alt="" coords="342,56,631,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_splash_frame.html#a83c26d15da7f088279b8717dc1ff9e22" title="com.wms.antifreeze.gui.SplashFrame.setValue" alt="" coords="339,107,634,133"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_splash_frame.html#af21bb3a5977fd301faad4db7c65a2bfe" title="com.wms.antifreeze.gui.SplashFrame.sleep" alt="" coords="349,157,624,184"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_splash_frame.html#a922a86a107817fca85364befbed4fdb7" title="com.wms.antifreeze.gui.SplashFrame.SplashFrame" alt="" coords="326,208,647,235"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_splash_frame.html#ab37f3f0b63ddefc185105051a4c8a3ac" title="com.wms.antifreeze.gui.SplashFrame.stop" alt="" coords="352,259,621,285"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_splash_frame.html#addb0f0b50d4c513390cc5f6fd334704a" title="com.wms.antifreeze.gui.SplashFrame.setProgress" alt="" coords="696,107,1011,133"/>
+</map>

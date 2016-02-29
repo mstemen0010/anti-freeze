@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f_ticket_box.html#a1d72d0d87ea6dc8b75ce0542d6ec24f7" title="com.wms.antifreeze.gui.AFTicketBox.addTicket" alt="" coords="371,5,669,32"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_ticket_mgr.html#a473d6f3151e52ac4627af66e2397ccd7" title="com.wms.antifreeze.AFTicketMgr.createTicket" alt="" coords="375,56,665,83"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_ticket_mgr.html#aef88a424fd8cf0ad7d9b0a9f26db12f7" title="com.wms.antifreeze.AFTicketMgr.loadOutStandingTickets" alt="" coords="718,5,1077,32"/>
+</map>

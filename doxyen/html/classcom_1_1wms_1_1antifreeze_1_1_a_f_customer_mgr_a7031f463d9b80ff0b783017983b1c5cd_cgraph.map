@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#ace6f7a649be74c9719b30729dbc2eca1" title="com.wms.antifreeze.AFMgr.callMgr" alt="" coords="436,5,663,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_customer_mgr.html#a8ace6c673d1b758c8240defa451f1929" title="com.wms.antifreeze.AFCustomerMgr.loadCusTable" alt="" coords="390,56,709,83"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#ade49ff78b36f2e107c77af40a598110e" title="com.wms.antifreeze.AFMgr.registerMgrForType" alt="" coords="401,107,698,133"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1customer_1_1_a_f_customer.html#a9072e606f19a37ac7dc43eb47147dce7" title="com.wms.antifreeze.entity.customer.AFCustomer.getAFCustID" alt="" coords="757,31,1144,57"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a424ad728227a0cfc7a0d7d9a45cec951" title="com.wms.antifreeze.AFMgr.getVTable" alt="" coords="829,81,1072,108"/>
+</map>

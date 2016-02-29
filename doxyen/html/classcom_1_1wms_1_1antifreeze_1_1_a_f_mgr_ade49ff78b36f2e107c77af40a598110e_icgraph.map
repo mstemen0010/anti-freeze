@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_customer_mgr.html#a7031f463d9b80ff0b783017983b1c5cd" title="com.wms.antifreeze.AFCustomerMgr.AFCustomerMgr" alt="" coords="352,5,688,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_ticket_mgr.html#a05a5f9fcea51b1c4a58e8759a65b3969" title="com.wms.antifreeze.AFTicketMgr.AFTicketMgr" alt="" coords="373,56,667,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a91f8b1146e7cea34240ea55109573de9" title="com.wms.antifreeze.AFMgr.initAntiFreezeMgr" alt="" coords="377,107,663,133"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#ad51fcec8f46ec1fbeeaca1167b8ca84f" title="com.wms.antifreeze.gui.AF_ViewMgr.initAntiFreezeSystem" alt="" coords="737,107,1103,133"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1_anti_freeze_app.html#ac4c47f9d66bee7e689eb8bf2bc8cdceb" title="com.wms.antifreeze.AntiFreezeApp.startup" alt="" coords="1152,107,1424,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node8" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_s_c_p_progress_panel.html" title="com.wms.antifreeze.view.SCPProgressPanel" alt="" coords="845,56,1128,83"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1wms_1_1antifreeze_1_1view_1_1_s_c_p_job_interface.html" title="com.wms.antifreeze.view.SCPJobInterface" alt="" coords="133,5,400,32"/>
+<area shape="rect" id="node4" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_s_c_p_progress_frame.html" title="com.wms.antifreeze.view.SCPProgressFrame" alt="" coords="123,56,410,83"/>
+</map>

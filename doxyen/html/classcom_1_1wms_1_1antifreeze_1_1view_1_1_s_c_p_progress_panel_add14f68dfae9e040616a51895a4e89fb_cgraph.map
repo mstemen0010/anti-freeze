@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_s_c_p_job.html#aeff708a5e53461baf273e83ca8cb3837" title="com.wms.antifreeze.view.SCPJob.getMessage" alt="" coords="379,5,671,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_s_c_p_job.html#a573b0b0aaba28a0480cf71b0c80d6de6" title="com.wms.antifreeze.view.SCPJob.setPanel" alt="" coords="389,56,661,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_s_c_p_progress_panel.html#a6606c8635193e3fd9cb7dc968e571758" title="com.wms.antifreeze.view.SCPProgressPanel.setMessage" alt="" coords="720,56,1077,83"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_s_c_p_progress_panel.html#aba87148e4c4fb08e55286aca2c81a385" title="com.wms.antifreeze.view.SCPProgressPanel.validate" alt="" coords="1126,56,1455,83"/>
+</map>

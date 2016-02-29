@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#ad51fcec8f46ec1fbeeaca1167b8ca84f" title="com.wms.antifreeze.gui.AF_ViewMgr.initAntiFreezeSystem" alt="" coords="326,259,693,285"/>
+<area shape="rect" id="node45" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job.html#a9cdfbd7441603145abfd11441cc4d04e" title="com.wms.antifreeze.view.AFJob.start" alt="" coords="391,309,628,336"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#ace6f7a649be74c9719b30729dbc2eca1" title="com.wms.antifreeze.AFMgr.callMgr" alt="" coords="797,107,1024,133"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a91f8b1146e7cea34240ea55109573de9" title="com.wms.antifreeze.AFMgr.initAntiFreezeMgr" alt="" coords="767,157,1054,184"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#aa79350cd6d5398a3835477e5be39e866" title="com.wms.antifreeze.gui.AF_ViewMgr.setSplashStatus" alt="" coords="1145,208,1482,235"/>
+<area shape="rect" id="node23" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a1a13ed4f82bf2ee5d3c92d86d7abc846" title="com.wms.antifreeze.gui.AF_ViewMgr.setSplashStatusValue" alt="" coords="1128,259,1499,285"/>
+<area shape="rect" id="node29" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a21a750ce5dc35163c9c5f701140973d9" title="com.wms.antifreeze.gui.AF_ViewMgr.initTicketSystem" alt="" coords="741,309,1080,336"/>
+<area shape="rect" id="node39" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a5c3d5803bf19ba85b89409da33d997bd" title="com.wms.antifreeze.gui.AF_ViewMgr.setLevel" alt="" coords="767,360,1055,387"/>
+<area shape="rect" id="node43" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#ad015076e237387b7c83526236e4e7fe6" title="com.wms.antifreeze.gui.AF_ViewMgr.writeToGui" alt="" coords="759,411,1062,437"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#a217063baee9be9e475f534ade2ee35e4" title="com.wms.antifreeze.entity.AFShopEntity.map" alt="" coords="1169,107,1457,133"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_shop_workflow.html#a8c47049988d88a804e9da402686e0697" title="com.wms.antifreeze.AFShopWorkflow.push" alt="" coords="1176,157,1451,184"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#ade49ff78b36f2e107c77af40a598110e" title="com.wms.antifreeze.AFMgr.registerMgrForType" alt="" coords="1165,5,1462,32"/>
+<area shape="rect" id="node19" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a0181c2316f821deb2106a4cb9a51a132" title="com.wms.antifreeze.gui.AF_ViewMgr.setSplashStatusNote" alt="" coords="1131,56,1495,83"/>
+<area shape="rect" id="node17" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#ab5079ac020b0fad80363153943c45691" title="com.wms.antifreeze.view.SplashCanvas.setMessage" alt="" coords="1547,208,1874,235"/>
+<area shape="rect" id="node21" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#abeb1295ec71c6052a31e9119592d0af2" title="com.wms.antifreeze.view.SplashCanvas.setNote" alt="" coords="1560,56,1861,83"/>
+<area shape="rect" id="node25" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#adcbae9e44287bd009e7c8af544242b2e" title="com.wms.antifreeze.view.SplashCanvas.setValue" alt="" coords="1557,259,1864,285"/>
+<area shape="rect" id="node27" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html#ad16cb2aaee68b2410c2ca0fcbe23f6e8" title="com.wms.antifreeze.view.SplashCanvas.setProgress" alt="" coords="1923,259,2250,285"/>
+<area shape="rect" id="node31" href="$classcom_1_1wms_1_1antifreeze_1_1_anti_freeze_app.html#ae9ac227a4e29fca52ae3b5e2aa78f60e" title="com.wms.antifreeze.AntiFreezeApp.getApplication" alt="" coords="1156,411,1471,437"/>
+<area shape="rect" id="node33" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a7656919b9c0585fc0bba0e41b47f0232" title="com.wms.antifreeze.AFMgr.getManagerForType" alt="" coords="1163,461,1463,488"/>
+<area shape="rect" id="node35" href="$interfacecom_1_1wms_1_1antifreeze_1_1_a_f_mgr_inf.html#aa58808337487d7a18b21d9da9ec365fa" title="com.wms.antifreeze.AFMgrInf.loadOutStandingTickets" alt="" coords="1145,309,1481,336"/>
+<area shape="rect" id="node37" href="$interfacecom_1_1wms_1_1antifreeze_1_1_a_f_mgr_inf.html#a3d7474469b0019f99b2a444460cd23e4" title="com.wms.antifreeze.AFMgrInf.setTicketBox" alt="" coords="1176,360,1451,387"/>
+</map>

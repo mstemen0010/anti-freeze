@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1_anti_freeze_app.html#ae9ac227a4e29fca52ae3b5e2aa78f60e" title="com.wms.antifreeze.AntiFreezeApp.getApplication" alt="" coords="403,5,717,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a7656919b9c0585fc0bba0e41b47f0232" title="com.wms.antifreeze.AFMgr.getManagerForType" alt="" coords="410,56,710,83"/>
+<area shape="rect" id="node7" href="$interfacecom_1_1wms_1_1antifreeze_1_1_a_f_mgr_inf.html#aa58808337487d7a18b21d9da9ec365fa" title="com.wms.antifreeze.AFMgrInf.loadOutStandingTickets" alt="" coords="392,107,728,133"/>
+<area shape="rect" id="node9" href="$interfacecom_1_1wms_1_1antifreeze_1_1_a_f_mgr_inf.html#a3d7474469b0019f99b2a444460cd23e4" title="com.wms.antifreeze.AFMgrInf.setTicketBox" alt="" coords="423,157,697,184"/>
+</map>

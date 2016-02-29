@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a49e0cf7d58cae6f796c9ee1825033dad" title="com.wms.antifreeze.AFMgr.displayCustName" alt="" coords="454,5,741,32"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1customer_1_1_a_f_customer_entity.html#ad87bc83ea38501a3950a76fc0e290acd" title="com.wms.antifreeze.entity.customer.AFCustomerEntity.getCusFirstName" alt="" coords="373,56,821,83"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1customer_1_1_a_f_customer_entity.html#a685d9537a26fc3bf10b176d5ed2a62f7" title="com.wms.antifreeze.entity.customer.AFCustomerEntity.getCusID" alt="" coords="397,107,797,133"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1customer_1_1_a_f_customer_entity.html#aae56db17eb57635768227af0f24871d3" title="com.wms.antifreeze.entity.customer.AFCustomerEntity.getCusLastName" alt="" coords="374,157,821,184"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1customer_1_1_a_f_customer_entity.html#a75c57e90413d5941921b0ce99c2d1a82" title="com.wms.antifreeze.entity.customer.AFCustomerEntity.getVRecord" alt="" coords="390,208,805,235"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#a424ad728227a0cfc7a0d7d9a45cec951" title="com.wms.antifreeze.AFMgr.getVTable" alt="" coords="476,259,719,285"/>
+<area shape="rect" id="node17" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html#aa09bbab1d5e74f850b72eb1a81d00577" title="com.wms.antifreeze.AFMgr.setCurrentCustomerId" alt="" coords="442,309,753,336"/>
+<area shape="rect" id="node5" href="$interfacecom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_inf.html#aee060c66b6a75f7f3b6179b813c2ac4c" title="com.wms.antifreeze.entity.ticket.AFTicketInf.displayCustName" alt="" coords="870,5,1255,32"/>
+</map>

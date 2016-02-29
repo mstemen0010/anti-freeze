@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_progress_panel.html#a3c6f522a4101ad0a8467c0a6dccb5595" title="com.wms.antifreeze.view.AFProgressPanel.setMessage" alt="" coords="373,5,720,32"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_progress_panel.html#aa30bb6194401e02d3737bb1d19b823bd" title="com.wms.antifreeze.view.AFProgressPanel.setNote" alt="" coords="386,56,707,83"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_progress_panel.html#adc18c8fedebed95484cab84a2e3c95e0" title="com.wms.antifreeze.view.AFProgressPanel.setValue" alt="" coords="383,107,710,133"/>
+<area shape="rect" id="node17" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job.html#a1811f6ad99634c978be59703ddec9e77" title="com.wms.antifreeze.view.AFJob.update" alt="" coords="775,132,1025,159"/>
+<area shape="rect" id="node19" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_progress_panel.html#a09b777b1c2409603f114305f6b39a87f" title="com.wms.antifreeze.view.AFProgressPanel.start" alt="" coords="395,208,698,235"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job.html#aa891d6e1662bae50726bfa0e45b99fd7" title="com.wms.antifreeze.view.AFJob.setPanel" alt="" coords="769,5,1031,32"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_progress_panel.html#af615dd2edd4118940c8cfdf8791e601c" title="com.wms.antifreeze.view.AFProgressPanel.setJob" alt="" coords="1080,5,1395,32"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job.html#afd080c0ace84dcda75d9f6760c545738" title="com.wms.antifreeze.view.AFJob.AFJob" alt="" coords="1443,5,1691,32"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job.html#af87dfd1ca693e7dcfbe4978fa521ba36" title="com.wms.antifreeze.view.AFJob.setNote" alt="" coords="772,56,1028,83"/>
+</map>

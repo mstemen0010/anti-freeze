@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket.html#ab47d32e2db94267dc548193e7276a1ac" title="com.wms.antifreeze.entity.ticket.AFTicket.AFTicket" alt="" coords="367,5,689,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_entity.html#a27b7451ece4c2eb9f91ec25962f10c42" title="com.wms.antifreeze.entity.ticket.AFTicketEntity.AFTicketEntity" alt="" coords="333,56,723,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_entity.html#ae69302fcd3a74216fba9020944689502" title="com.wms.antifreeze.entity.ticket.AFTicketEntity.createNewTicket" alt="" coords="328,107,728,133"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_ticket_mgr.html#a4e63724661b93b2005db3e26046a0488" title="com.wms.antifreeze.AFTicketMgr.createTicket" alt="" coords="776,107,1067,133"/>
+</map>

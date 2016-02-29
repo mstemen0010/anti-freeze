@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node23" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html" title="com.wms.antifreeze.gui.AF_ViewMgr" alt="" coords="883,1164,1120,1190"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1wms_1_1antifreeze_1_1entity_1_1ticket_1_1_a_f_ticket_inf.html" title="com.wms.antifreeze.entity.ticket.AFTicketInf" alt="" coords="6,537,285,564"/>
+<area shape="rect" id="node6" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_mgr.html" title="com.wms.antifreeze.AFMgr" alt="" coords="1315,904,1496,930"/>
+<area shape="rect" id="node98" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f_ticket_wizard.html" title="com.wms.antifreeze.gui.AFTicketWizard" alt="" coords="1580,337,1836,364"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f_view_mgr_interface.html" title="com.wms.antifreeze.gui.AFViewMgrInterface" alt="" coords="6,1292,285,1318"/>
+<area shape="rect" id="node57" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f_preferences.html" title="com.wms.antifreeze.gui.AFPreferences" alt="" coords="1583,1572,1833,1598"/>
+<area shape="rect" id="node77" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f_shop_info.html" title="com.wms.antifreeze.gui.AFShopInfo" alt="" coords="1593,1849,1823,1876"/>
+<area shape="rect" id="node88" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_detail_viewer.html" title="com.wms.antifreeze.view.AFDetailViewer" alt="" coords="1579,1346,1837,1373"/>
+<area shape="rect" id="node8" href="$interfacecom_1_1wms_1_1antifreeze_1_1_a_f_mgr_inf.html" title="com.wms.antifreeze.AFMgrInf" alt="" coords="904,704,1099,730"/>
+<area shape="rect" id="node10" href="$interfacecom_1_1wms_1_1antifreeze_1_1_a_f_search_interface.html" title="com.wms.antifreeze.AFSearchInterface" alt="" coords="877,1113,1126,1140"/>
+<area shape="rect" id="node27" href="$interfacecom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f_listener.html" title="com.wms.antifreeze.gui.AFListener" alt="" coords="464,1073,691,1100"/>
+<area shape="rect" id="node32" href="$interfacecom_1_1wms_1_1antifreeze_1_1view_1_1_a_f_job_watcher_interface.html" title="com.wms.antifreeze.view.AFJobWatcherInterface" alt="" coords="425,1124,730,1150"/>
+<area shape="rect" id="node46" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_splash_canvas.html" title="com.wms.antifreeze.view.SplashCanvas" alt="" coords="451,1529,703,1556"/>
+<area shape="rect" id="node63" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html" title="com.wms.antifreeze.entity.AFShopEntity" alt="" coords="872,1978,1131,2005"/>
+<area shape="rect" id="node96" href="$classcom_1_1wms_1_1antifreeze_1_1view_1_1_s_c_p_job.html" title="com.wms.antifreeze.view.SCPJob" alt="" coords="469,921,686,948"/>
+<area shape="rect" id="node123" href="$classcom_1_1wms_1_1antifreeze_1_1_a_f_shop_workflow.html" title="com.wms.antifreeze.AFShopWorkflow" alt="" coords="880,364,1123,390"/>
+</map>

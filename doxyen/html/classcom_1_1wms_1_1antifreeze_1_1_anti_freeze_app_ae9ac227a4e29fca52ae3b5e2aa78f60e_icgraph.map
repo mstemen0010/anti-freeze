@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a21a750ce5dc35163c9c5f701140973d9" title="com.wms.antifreeze.gui.AF_ViewMgr.initTicketSystem" alt="" coords="369,5,708,32"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a682fc9bd810c91a618865394967f9c8e" title="com.wms.antifreeze.gui.AF_ViewMgr.showAboutBox" alt="" coords="375,56,703,83"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a1be8816f4aaabdd81a6acb3f029e7c61" title="com.wms.antifreeze.gui.AF_ViewMgr.showCustDetail" alt="" coords="373,107,704,133"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#aad921a6147bf1a6ab2354ba1a41edb17" title="com.wms.antifreeze.gui.AF_ViewMgr.showPreferences" alt="" coords="369,157,709,184"/>
+<area shape="rect" id="node17" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a167ffac8a3e49001af190347c0feb7bd" title="com.wms.antifreeze.gui.AF_ViewMgr.showShopInfo" alt="" coords="378,208,699,235"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#ad51fcec8f46ec1fbeeaca1167b8ca84f" title="com.wms.antifreeze.gui.AF_ViewMgr.initAntiFreezeSystem" alt="" coords="758,5,1125,32"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1_anti_freeze_app.html#ac4c47f9d66bee7e689eb8bf2bc8cdceb" title="com.wms.antifreeze.AntiFreezeApp.startup" alt="" coords="1173,5,1445,32"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1gui_1_1_a_f___view_mgr.html#a767d5fc741b15262ef9f47144507972c" title="com.wms.antifreeze.gui.AF_ViewMgr.searchCustomer" alt="" coords="773,107,1109,133"/>
+</map>

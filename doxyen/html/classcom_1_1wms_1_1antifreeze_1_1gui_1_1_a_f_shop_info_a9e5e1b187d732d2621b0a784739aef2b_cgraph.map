@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#ad44a63884bd9fa5ea9eb808d9c848954" title="com.wms.antifreeze.entity.AFShopEntity.setAfLocale" alt="" coords="409,5,740,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#ac639225d1b4f1563eba2ea80c82f5a35" title="com.wms.antifreeze.entity.AFShopEntity.setAfshopAddr1" alt="" coords="397,56,752,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#ad534e9200a76d8705a9fba0bb92b923d" title="com.wms.antifreeze.entity.AFShopEntity.setAfshopAddr2" alt="" coords="397,107,752,133"/>
+<area shape="rect" id="node9" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#a65df02192d32e7d30a60e82d75e827f5" title="com.wms.antifreeze.entity.AFShopEntity.setAfShopCell" alt="" coords="402,157,747,184"/>
+<area shape="rect" id="node11" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#aa7cbc14e11d6bb4063c0cdd347ee32bc" title="com.wms.antifreeze.entity.AFShopEntity.setAfshopCity" alt="" coords="403,208,747,235"/>
+<area shape="rect" id="node13" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#a7cd572482b52f5d6fa3bd8cb6ca07065" title="com.wms.antifreeze.entity.AFShopEntity.setAfshopCountryCode" alt="" coords="377,259,773,285"/>
+<area shape="rect" id="node15" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#ac9fb38b2db207f63adcd6839df320a55" title="com.wms.antifreeze.entity.AFShopEntity.setAfshopFax" alt="" coords="403,309,746,336"/>
+<area shape="rect" id="node17" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#ad0fc0b9a9162ed41ab03e0a52e915075" title="com.wms.antifreeze.entity.AFShopEntity.setAfshopName" alt="" coords="397,360,752,387"/>
+<area shape="rect" id="node19" href="$classcom_1_1wms_1_1antifreeze_1_1entity_1_1_a_f_shop_entity.html#a54acf28124711625bc12888975d41718" title="com.wms.antifreeze.entity.AFShopEntity.setAfShopPhone1" alt="" coords="391,411,758,437"/>
+</map>
